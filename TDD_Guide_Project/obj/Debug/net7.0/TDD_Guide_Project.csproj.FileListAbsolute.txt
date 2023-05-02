@@ -1,0 +1,15 @@
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\bin\Debug\net7.0\TDD_Guide_Project.exe
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\bin\Debug\net7.0\TDD_Guide_Project.deps.json
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\bin\Debug\net7.0\TDD_Guide_Project.runtimeconfig.json
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\bin\Debug\net7.0\TDD_Guide_Project.dll
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\bin\Debug\net7.0\TDD_Guide_Project.pdb
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\obj\Debug\net7.0\TDD_Guide_Project.csproj.AssemblyReference.cache
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\obj\Debug\net7.0\TDD_Guide_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\obj\Debug\net7.0\TDD_Guide_Project.AssemblyInfoInputs.cache
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\obj\Debug\net7.0\TDD_Guide_Project.AssemblyInfo.cs
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\obj\Debug\net7.0\TDD_Guide_Project.csproj.CoreCompileInputs.cache
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\obj\Debug\net7.0\TDD_Guide_Project.dll
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\obj\Debug\net7.0\refint\TDD_Guide_Project.dll
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\obj\Debug\net7.0\TDD_Guide_Project.pdb
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\obj\Debug\net7.0\TDD_Guide_Project.genruntimeconfig.cache
+C:\Studys\TDD\TDD_Guide\TDD_Guide_Project\obj\Debug\net7.0\ref\TDD_Guide_Project.dll
